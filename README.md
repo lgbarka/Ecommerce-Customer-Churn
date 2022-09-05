@@ -25,7 +25,7 @@ Pelanggan yang tidak churn di perusahaan ini ditandai dengan angka yang cenderun
 Faktanya, persentase pelanggan yang hilang tersebut berpengaruh terhadap growth rate perusahaan, ini merupakan alasan utama yang menjadikan customer churn rate begitu penting terutama di bisnis e-commerce.
 
 Selain itu, sebuah survey membuktikan bahwa:
-- mendapatkan pelanggan baru bisa menghabiskan biaya sekitar 5x lipat dibandingkan jika kita memelihara hubungan pelanggan yang sudah ada. 
+- Mendapatkan pelanggan baru bisa menghabiskan biaya sekitar 5x lipat dibandingkan jika kita memelihara hubungan pelanggan yang sudah ada. 
 - Tingkat keberhasilan (success rate) pada penjualan ke pelanggan yang sudah ada adalah 60-70%, sedangkan tingkat keberhasilan penjualan ke pelanggan baru adalah 5-20%. 
 - Meningkatkan tingkat retensi pelanggan sebesar 5% meningkatkan keuntungan sebesar 25-95%.
 
