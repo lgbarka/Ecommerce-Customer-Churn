@@ -3,7 +3,6 @@
 A final project assigned by Purwadhika Digital Technological School completed by 2 members of group:
 
 1. Kenshi Poneva Yulindo
-
 2. Luthfi Ghina Barka
 
 BUSINESS PROBLEM
