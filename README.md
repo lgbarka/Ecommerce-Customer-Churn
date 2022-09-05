@@ -5,7 +5,7 @@ A final project assigned by Purwadhika Digital Technological School completed by
 1. Kenshi Poneva Yulindo
 2. Luthfi Ghina Barka
 
-BUSINESS PROBLEM
+# **BUSINESS PROBLEM**
 1.1 Context
 Pada dasarnya, customer churn terjadi ketika pelanggan yang berhenti menggunakan produk atau layanan dari suatu bisnis di perusahaan. Perpindahan atau kehilangan pelanggan adalah salah satu masalah paling krusial bagi bisnis apapun yang secara langsung menjual atau melayani pelanggan, salah satunya adalah bisnis e-commerce.
 
