@@ -1,1 +1,1 @@
-# ecommerce-cutomer-churn
+# E-commerce Customer Churn
